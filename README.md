@@ -5,8 +5,16 @@ This is an ML app for predicting the likelihood of three diseases - diabetes, he
 Prerequisites
 Before using the app, you need to have the following software installed on your computer:
 
-Python 3.x
-Flask
+Python 3.x 
+
+
+Flask 
+
+
 Scikit-learn
+
+
 Pandas
+
+
 Numpy
