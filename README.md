@@ -7,14 +7,10 @@ Before using the app, you need to have the following software installed on your 
 
 Python 3.x 
 
-
 Flask 
-
 
 Scikit-learn
 
-
 Pandas
-
 
 Numpy
